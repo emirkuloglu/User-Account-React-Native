@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "project0",
+    "slug": "project0",
+    "owner": "emirkuloglu",
+    "scheme": "project0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.emirkuloglu.project0"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "924ca860-1155-4655-8b85-7491ea716027"
+      }
+    },
+    "plugins": [
+      "expo-web-browser"
+    ]
+  }
+}
