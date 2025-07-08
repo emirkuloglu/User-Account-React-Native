@@ -65,8 +65,8 @@ const LoginPage = () =>
               <TouchableOpacity
 
                 onPress={()=> navigation.navigate('Welcome')}
-                className="bg-blue-950 p-2 rounded-tr-2xl rounded-bl-2xl ml-2">
-                <ArrowLeftIcon size="20" color="white"/>
+                className="bg-blue-950 p-2 rounded-tr-2xl rounded-bl-2xl ml-2 mt-3">
+                <ArrowLeftIcon size="25" color="white"/>
 
               </TouchableOpacity>
             </View>
