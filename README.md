@@ -1,4 +1,4 @@
-# 🎬 User Account App
+# 👤 User Account App
 
 Merhaba! Bu proje, **React Native** kullanılarak geliştirilmiş bir kullanıcı hesap uygulamasıdır. Kullanıcılar giriş/çıkış yapabilir. Yeni kullanıcı oluşturulabilir. Ana sayfada veri ekleyebilir, silebilir ve güncelleyebilir.
 
@@ -9,7 +9,8 @@ Merhaba! Bu proje, **React Native** kullanılarak geliştirilmiş bir kullanıc�
 - 🔐 Firebase Authentication (Kullanıcı Girişi)
 - 📝 Firestore üzerinden veri yönetimi (ekleme, silme, güncelleme)
 - 🧭 Modern navigasyon yapısı (React Navigation)
-- ...?
+- 💾 Redux Toolkit ile global durum yönetimi
+- 🌐 Gerçek zamanlı veri senkronizasyonu
 
 ---
 
