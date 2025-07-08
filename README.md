@@ -14,6 +14,12 @@ Merhaba! Bu proje, **React Native** kullanılarak geliştirilmiş bir kullanıc�
 
 ---
 
+## 🚀 Test Aşamasında
+
+- 👤 Profil Sekmesi
+
+---
+
 ## 📱 Uygulama Görselleri
 
 <p float="left">
