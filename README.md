@@ -1,6 +1,6 @@
 # 👤 User Account App
 
-Hello! This project is a **React Native** based user account application. Users can sign in and out. New users can be created. On the main page, users can add, delete, and update data.
+Hi! This application is a **React Native** based user account application. Users can sign in and out. New users can be created. On the main page, users can add, delete, and update data.
 
 ---
 
